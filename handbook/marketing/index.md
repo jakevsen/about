@@ -43,6 +43,7 @@
         - [Marek Zaluski](https://about.sourcegraph.com/company/team#marek-zaluski), Developer Education Engineer
         - We will be hiring technical educators
     - [Sarah Reece](https://about.sourcegraph.com/company/team#sarah-reece-she-her), Director of Demand Generation
+        - Jake Sorensen, Programs Lead, Demand Gen Campaigns
         - Lori Heyman, Digital Marketing Programs
         - Rebecca Rissinger, Manager, Marketing Operations
     - Tommy Pesavento, Director of Brand Design
